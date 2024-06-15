@@ -155,15 +155,15 @@ button:hover{
     }
     
     .logo{
-        font-size: 15px;
+        font-size: 21px;
                 align-items: center;
 
         
     }
 
     li.nav-link{
-        font-size: 12px;
-        margin-left: 5px;
+        font-size: 18px;
+        margin-left: 7px;
     }
 
     .main{
