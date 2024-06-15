@@ -134,18 +134,18 @@ button:hover{
     
 }
 
-@media screen and (max-width:720px){
+@media screen and (max-width:540px){
     .glass-container{
         margin-top: 5vh;
         padding: 30px;
     }
     
     .logo{
-        font-size: 18px;
+        font-size: 23px;
     }
 
     li.nav-link{
-        font-size: 12px;
+        font-size: 15px;
         margin-left: 5px;
     }
 
@@ -154,22 +154,22 @@ button:hover{
     }
 
     .main h2{
-        font-size: 15px;
+        font-size: 21px;
     }
 
     .main p{
-        font-size: 10px;
-        line-height: 15px;
+        font-size: 15px;
+        line-height: 20px;
     }
 
     button{
-        font-size: 10px;
+        font-size: 15px;
         height: 27px;
 
     }
 
     .image-wrapper img{
-        max-width: 50px;
+        max-width: 300px;
     }
 
     .main{
