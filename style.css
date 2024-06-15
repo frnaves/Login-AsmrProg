@@ -149,12 +149,17 @@ button:hover{
         margin-left: 5px;
     }
 
+    .main{
+        padding: 0px;
+    }
+
     .main h2{
         font-size: 18px;
     }
 
     .main p{
         font-size: 12px;
+        line-height: 15px;
     }
 
     button{
