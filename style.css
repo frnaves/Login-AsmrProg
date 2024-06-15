@@ -138,22 +138,26 @@ button:hover{
 
 
     body{
-        margin-bottom: 0px;
+        margin: 0px;
+        padding: 0px;
         color: #fff;
-        background-color: #e9ff99;
-        background-image: none
-
+        
     }
     
     .glass-container{
         margin-top: 1vh;
         padding: 30px;
         padding-bottom: 20px;
-        margin-bottom: 5px;        
+        margin-bottom: 5px;
+            
+            
     }
     
     .logo{
         font-size: 15px;
+                align-items: center;
+
+        
     }
 
     li.nav-link{
