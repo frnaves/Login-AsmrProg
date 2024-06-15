@@ -42,7 +42,7 @@ body{
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0,0,0,0.1);
     backdrop-filter: blur(11.6px);
-    -webkit-backdrop-filter: blur(1111.6px);
+    -webkit-backdrop-filter: blur(11.6px);
 }
 
 .logo{
@@ -150,6 +150,8 @@ button:hover{
         padding: 30px;
         padding-bottom: 20px;
         margin-bottom: 5px;
+        backdrop-filter: blur(2px);
+        -webkit-backdrop-filter: blur(11.6px);
         
     }
     
