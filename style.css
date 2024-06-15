@@ -136,16 +136,17 @@ button:hover{
 
 @media screen and (max-width:540px){
     .glass-container{
-        margin-top: 5vh;
+        margin-top: 2vh;
         padding: 30px;
+        padding-bottom: 20px;
     }
     
     .logo{
-        font-size: 23px;
+        font-size: 20px;
     }
 
     li.nav-link{
-        font-size: 15px;
+        font-size: 12px;
         margin-left: 5px;
     }
 
@@ -155,6 +156,7 @@ button:hover{
 
     .main h2{
         font-size: 21px;
+        margin-top: 10px;
     }
 
     .main p{
