@@ -135,8 +135,14 @@ button:hover{
 }
 
 @media screen and (max-width:540px){
+
+
     body{
         margin-bottom: 0px;
+        color: #fff;
+        background-color: #e9ff99;
+        background-image: radial-gradient(red, blue)       
+
     }
     
     .glass-container{
