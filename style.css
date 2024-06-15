@@ -137,12 +137,14 @@ button:hover{
 @media screen and (max-width:540px){
     body{
         height: 100%;
+        margin-bottom: 0px;
     }
     
     .glass-container{
         margin-top: 1vh;
         padding: 30px;
         padding-bottom: 20px;
+        
     }
     
     .logo{
