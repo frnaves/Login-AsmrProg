@@ -41,8 +41,8 @@ body{
     padding-bottom: 20px;
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0,0,0,0.1);
-    backdrop-filter: blur(11.6px);
-    -webkit-backdrop-filter: blur(11.6px);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
 }
 
 .logo{
@@ -141,7 +141,7 @@ button:hover{
         margin-bottom: 0px;
         color: #fff;
         background-color: #e9ff99;
-        background-image: radial-gradient(red, blue)       
+        background-image: none
 
     }
     
@@ -149,10 +149,7 @@ button:hover{
         margin-top: 1vh;
         padding: 30px;
         padding-bottom: 20px;
-        margin-bottom: 5px;
-        backdrop-filter: blur(2px);
-        -webkit-backdrop-filter: blur(11.6px);
-        
+        margin-bottom: 5px;        
     }
     
     .logo{
