@@ -135,6 +135,10 @@ button:hover{
 }
 
 @media screen and (max-width:540px){
+    body{
+        height: 100%;
+    }
+    
     .glass-container{
         margin-top: 1vh;
         padding: 30px;
