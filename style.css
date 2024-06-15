@@ -17,7 +17,7 @@ body{
     background-image: 
     
         radial-gradient(at 9% 89%, hsla(215, 90%, 73%, 1), 0px, transparent 50%),
-        radial-gradient(at 72% 6%, hsla(331,74%,64%,1)0px,transparent 50%),
+        radial-gradient(at 72% 6%, hsla(331,74%,64%, 1)0px,transparent 50%),
         radial-gradient(at 24% 19%, hsla(14, 90%, 74%, 1) 0px, transparent 50%),
         radial-gradient(at 65% 6%, hsla(6, 79%, 76%, 1) 0px, transparent 50%),
         radial-gradient(at 20% 98%, hsla(316, 72%, 64%, 1)0px, transparent 50%),
@@ -136,7 +136,6 @@ button:hover{
 
 @media screen and (max-width:540px){
     body{
-        height: 100%;
         margin-bottom: 0px;
     }
     
@@ -144,6 +143,7 @@ button:hover{
         margin-top: 1vh;
         padding: 30px;
         padding-bottom: 20px;
+        margin-bottom: 5px;
         
     }
     
